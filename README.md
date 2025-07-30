@@ -10,6 +10,7 @@ The display is planned to feature:
 
 > Currently in concept phase. Components and design logic are still under iteration.
 
+`In the process of updating documentation.`
 ---
 
 ## Planned Features
